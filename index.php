@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi koneksi database
-$servername = "tes-server-herwin"; // Sesuaikan dengan alamat server MySQL Anda
+$servername = "tes-server-herwin.mysql.database.azure.com"; // Sesuaikan dengan alamat server MySQL Anda
 $username = "xokvnemxcl";    // Sesuaikan dengan username MySQL Anda
 $password = "q4hf$gSagPzpLTCG";    // Sesuaikan dengan password MySQL Anda
 $dbname = "tes-database-herwin"; // Sesuaikan dengan nama database yang ingin Anda cek
